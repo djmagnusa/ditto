@@ -1,5 +1,6 @@
 body {
-  margin: 0;
+  background-color: #fafafa;
+  margin: 2rem;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -7,7 +8,57 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+
+p {
+  margin-bottom: 50px;
+}
+
+label {
+  font-weight: 300;
+}
+
+.app {
+  padding: 15px;
+}
+
+.input:focus{
+ 
+  border:2px solid #3AC0FF !important;
+}
+
+.icon{
+   display: flex; 
+   
+}
+
+.form-group:not(:last-child){
+  padding-bottom: 20px;
+}
+
+#bodyid .my-button{
+  margin-right: 15px;
+  padding: 15px 35px;
+  border-radius: 10px;
+  
+}
+
+#bodyid .my-button2{
+  margin-right: 15px;
+  padding: 15px 91px;  
+}
+
+.container {
+  max-width: 30rem;
+}
+
+.button-container{
+  display: flex;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.block{
+  display: block;
+  width: 100%;
 }
