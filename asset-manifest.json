@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ditto/static/css/main.f5915c7d.css",
+    "main.js": "/ditto/static/js/main.4ffdf2a6.js",
+    "static/js/787.4c438a49.chunk.js": "/ditto/static/js/787.4c438a49.chunk.js",
+    "index.html": "/ditto/index.html",
+    "main.f5915c7d.css.map": "/ditto/static/css/main.f5915c7d.css.map",
+    "main.4ffdf2a6.js.map": "/ditto/static/js/main.4ffdf2a6.js.map",
+    "787.4c438a49.chunk.js.map": "/ditto/static/js/787.4c438a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5915c7d.css",
+    "static/js/main.4ffdf2a6.js"
+  ]
+}
